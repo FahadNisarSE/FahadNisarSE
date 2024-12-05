@@ -35,7 +35,7 @@
 ---
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadnisarse&show_icons=true&locale=en&layout=compact" alt="fahadnisarse" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FahadNisarSE&show_icons=true&locale=en&layout=compact" alt="fahadnisarse" />
 </p>
 
 <p>&nbsp;
