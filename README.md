@@ -39,5 +39,5 @@
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadnisarse&show_icons=true&locale=en" alt="fahadnisarse" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FahadNisarSE&show_icons=true&locale=en" alt="fahadnisarse" />
 </p>
